@@ -14,6 +14,8 @@ function preload(){
   human2Img= loadImage("human2.png");
   human3Img= loadImage("human3.png");
   backgroundImg= loadImage("background.jpg");
+  obstacle1Img= loadImage("obstacle1.png");
+  obstacle2Img= loadImage("obstacle2.png");
 }
 
 function setup(){
